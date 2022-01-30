@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  display: flex;
+  height: 100vh;
+}
+.left{
+  background-color: #F1F2F7;
+  width: 240px;
+
+}
+.right{
+  display: flex;
+
 }
 
 .App-logo {
